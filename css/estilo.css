@@ -1,0 +1,11 @@
+.fotop {
+    height: 186px;
+    width: 186px;
+    border-radius: 60px;
+    color: black;
+    
+};
+.coment {
+    align-items: flex-start;
+    position:absolute;
+}

@@ -1607,7 +1607,8 @@ button,
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin: 0 0 2em -3em;
-  width: calc(100% + 3em); }
+  width: calc(100% + 3em);
+ }
   .features article {
     -moz-align-items: center;
     -webkit-align-items: center;
