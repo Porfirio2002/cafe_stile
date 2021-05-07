@@ -8,4 +8,9 @@
 .coment {
     align-items: flex-start;
     position:absolute;
+};
+.capa {
+    height: 800px;
+    width: 800px;
+    align-items: center;
 }
